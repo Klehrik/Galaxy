@@ -19,5 +19,6 @@ R - Reset
 F - Fullscreen  
 
 - The two numbers on your home planet represent Metal and Plasma resources respectively.
+- If you have ships orbiting a resource planet with resources, you have to manually select one and right click the planet to bring it back.
 - You can build on a planet if at least one of your ships is on it and there are no enemy ships on it.
 - You can change the simulation speed in the top right.
