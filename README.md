@@ -19,5 +19,5 @@ R - Reset
 F - Fullscreen  
 
 - The two numbers on your home planet represent Metal and Plasma resources respectively.
-- A planet is colonized if at least one of your ships is there and there are no enemy ships there (I think? I might be misremembering).
+- You can build on a planet if at least one of your ships is on it and there are no enemy ships on it.
 - You can change the simulation speed in the top right.
