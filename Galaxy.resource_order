@@ -1,0 +1,13 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"obj_BlueShip","order":4,"path":"objects/obj_BlueShip/obj_BlueShip.yy",},
+    {"name":"rm_LevelEditor","order":1,"path":"rooms/rm_LevelEditor/rm_LevelEditor.yy",},
+    {"name":"obj_Cannon","order":6,"path":"objects/obj_Cannon/obj_Cannon.yy",},
+    {"name":"obj_Planet","order":1,"path":"objects/obj_Planet/obj_Planet.yy",},
+    {"name":"obj_LevelEditorPlanet","order":1,"path":"objects/obj_LevelEditorPlanet/obj_LevelEditorPlanet.yy",},
+    {"name":"obj_Ship","order":3,"path":"objects/obj_Ship/obj_Ship.yy",},
+    {"name":"obj_RedShip","order":5,"path":"objects/obj_RedShip/obj_RedShip.yy",},
+    {"name":"obj_DrawBG","order":2,"path":"objects/obj_DrawBG/obj_DrawBG.yy",},
+  ],
+}
