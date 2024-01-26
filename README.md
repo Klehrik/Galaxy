@@ -13,9 +13,10 @@ Used music from FTL: Faster Than Light as placeholder tracks, which have been re
 
 ### Controls
 
-LMB - Select planets, drag to select units
-RMB - Send selected units to location
-R - Reset
+LMB - Select planets, drag to select units  
+RMB - Send selected units to location  
+R - Reset  
 
 - The two numbers on your home planet represent Metal and Plasma resources respectively.
 - A planet is colonized if at least one of your ships is there and there are no enemy ships there (I think? I might be misremembering).
+- You can change the simulation speed in the top right.
